@@ -2,5 +2,4 @@
 Solo Project for Hackathon, new language
 
 EIther in:
-Python w/ Flask
-Java w/ React
+Python w/ Flask or Java w/ React
